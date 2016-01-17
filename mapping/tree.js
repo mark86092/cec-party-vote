@@ -1588,7 +1588,7 @@ for(i=0;i<secCountyNumber.length;i++){
 				else{
 					//insDoc(aux_arr_4[i], gLnk("S", secAreaName[i][j][k], "../T4/"+orderBy+secAreaID[i][j][k]+".html"));
 					aux_arr_4[i].addNode(new Mapping(
-						secAreaName[i][j][0],
+						secAreaName[i][j][k],
 						'http://www.cec.gov.tw/zh_TW/T4/' + orderBy+secAreaID[i][j][k]+".html"
 					));
 				}
