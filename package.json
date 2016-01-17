@@ -1,12 +1,15 @@
 {
-  "name": "cec-party-vote",
-  "version": "1.0.0",
-  "description": "",
+  "name": "cec-vote-result",
+  "version": "1.1.0",
+  "description": "The 2016 election data collections from cec",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.67.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": ""
 }
