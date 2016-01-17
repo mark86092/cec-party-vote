@@ -5,8 +5,14 @@
 區域立法委員.mapping.json
 ```
 
-與
+```
+不分區立委_開票所.mapping.json
+```
 
 ```
 不分區立委.mapping.json
+```
+
+```
+不分區立委_開票所.mapping.json
 ```
